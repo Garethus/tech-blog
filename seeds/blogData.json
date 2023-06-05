@@ -1,0 +1,17 @@
+[
+  {
+    "title": "MVC Framework - Introduction",
+    "content": "A mobile app that will send you notifications whenever a concert is playing in your area.",
+    "user_id": 1
+  },
+  {
+    "title": "What is an ORM",
+    "content": "Object Relational Mapping (ORM) is a technique used in creating a bridge between object-oriented programs and, in most cases, relational databases.",
+    "user_id": 2
+  },
+  {
+    "title": "Authentication vs. Authorization",
+    "content": "Authentication and authorization are two vital information security processes that administrators use to protect systems and information. Authentication verifies the identity of a user or service, and authorization determines their access rights.",
+    "user_id": 3
+  }
+]
